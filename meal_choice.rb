@@ -1,7 +1,7 @@
 #Meal Choice Lab
 
 def breakfast (food="frosted flakes")
-  puts "Morning is the best time for #{food}!"
+  puts "Morning is the best time for #{food},!"
 end
 
 def lunch (food="grilled cheese")
@@ -12,4 +12,3 @@ def dinner(food="salmon")
   puts "Evening is the best time for #{food}!"
 end
 
-lunch
