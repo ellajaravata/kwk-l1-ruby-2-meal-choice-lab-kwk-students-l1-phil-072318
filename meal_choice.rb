@@ -1,6 +1,6 @@
 #Meal Choice Lab
 
-def breakfast (food="frosted flakes", "grilled cheese", "salmon")
+def breakfast (food="frosted flakes")
   puts "Morning is the best time for #{food}!"
 end
 
