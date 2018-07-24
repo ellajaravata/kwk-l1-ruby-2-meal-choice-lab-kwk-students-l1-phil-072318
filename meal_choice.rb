@@ -12,4 +12,4 @@ def dinner(food="salmon")
   puts "Evening is the best time for #{food}!"
 end
 
-breakfastt
+breakfast
