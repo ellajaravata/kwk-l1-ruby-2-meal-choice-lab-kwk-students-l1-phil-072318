@@ -5,11 +5,11 @@ def breakfast (food="frosted flakes")
 end
 
 def lunch (food="grilled cheese")
-  puts "MOrning is the best time for "
+  puts "Morning is the best time for #{food}!"
 end
 
 def dinner(food="salmon")
-  puts
+  puts "Evening is the best time for #{food}!"
 end
 
 
